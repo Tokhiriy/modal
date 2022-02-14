@@ -1,5 +1,6 @@
 "use strict";
 window.addEventListener("DOMContentLoaded", () => {
+  // changing in git hub
   const modal = document.querySelector(".modal"),
     modalContent = document.querySelector(".modal-content"),
     btn = document.querySelector(".btn"),
